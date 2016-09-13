@@ -1,1 +1,1 @@
-module.exports = require('./src/session');
+module.exports = require('./lib/session');
